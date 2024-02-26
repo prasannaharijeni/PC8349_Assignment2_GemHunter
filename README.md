@@ -31,3 +31,7 @@ Each player gets 15 turns. The game ends after 30 moves (15 turns for each playe
  Winning:
 The player with the most gems collected after all turns are exhausted wins.
 If both players have the same number of gems, it's a tie.
+
+
+YouTube Link for demonstration Video:
+https://youtu.be/i75VtIpxmlA
