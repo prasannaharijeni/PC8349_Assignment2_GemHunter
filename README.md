@@ -1,5 +1,7 @@
 **GEM HUNTERS**
+
 Game Elements:
+
 Players: Player 1 starts in the top-left corner, and Player 2 starts in the bottom-right corner.
 
 Gems: Randomly placed on the board at the start of the game. They do not move once placed.
@@ -8,8 +10,10 @@ Obstacles: Random positions on the board (e.g., represented by an "O") that play
 through.
 
 Rules:
+
  Display
 The board will be displayed after every turn. Players will be represented by P1 and P2, gems by G, obstacles by O, and empty spaces by -.
+
  Movement:
 Players input their movement through the console: U for up, D for down, L for left, R for right.
 Players can move up, down, left, or right by one square on their turn.
